@@ -1,4 +1,4 @@
-# Fiji_Cell_Recognition
+# ImageJ/Fiji Cell Recognition
 
 This was my summer 2021 project at the University of Calgary where a solution was needed to measure the expression of the Celf2 gene outside of the nucleus of Mus musculus during E14, E7, P0, P14 and P21 stages of development. 
 
