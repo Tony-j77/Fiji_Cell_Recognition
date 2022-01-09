@@ -5,3 +5,5 @@ This was my summer 2021 project at the University of Calgary where a solution wa
 This neural network interacts with the Fiji Macro API to significantly reduce the image processing time from weeks to hours. The neural network also eliminates inaccuracies and discrepancies as a result of human error. 
 
 Watch the Neural Network in Action: https://www.youtube.com/watch?v=cHJ5jNMxTLs 
+
+Read the training report here: https://github.com/Tony-j77/Fiji_Cell_Recognition/blob/main/Training%20report%20for%20StarDist%202D%20model.pdf
